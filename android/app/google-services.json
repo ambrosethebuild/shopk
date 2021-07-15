@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158066503486",
+    "project_id": "kush-markets",
+    "storage_bucket": "kush-markets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158066503486:android:2e8fa985791ef882ed866f",
+        "android_client_info": {
+          "package_name": "com.kush.kushmarkets.kushmarkets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158066503486-p58prq0kkokgiflgm7cs5o2igsehiaev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kush.kushmarkets.kushmarkets",
+            "certificate_hash": "ec1712d6f5557078fc05608e6c18241069429086"
+          }
+        },
+        {
+          "client_id": "158066503486-mqe7cta9sqjeoomg2dcan7p2vvf3gvud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSm1Xtjic_-jM0zMMMrAr01By5PxrSIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158066503486-mqe7cta9sqjeoomg2dcan7p2vvf3gvud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
